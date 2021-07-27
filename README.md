@@ -3,3 +3,4 @@
 * Alex Gregori Julia
 * Mario Alejandro Dominguez
 * Pedro Andrés Rubio Torres
+* Carlo Joaquín Buendía Díaz
