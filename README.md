@@ -2,6 +2,7 @@
 * Eduardo Ismael García Pérez
 * Alex Gregori Julia
 * Mario Alejandro Dominguez
+* Luis Bautista
 * Mario Abreu
 * Jhonnatan Flores
 * Carlo Joaquín Buendía Díaz
