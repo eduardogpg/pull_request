@@ -4,3 +4,4 @@
 * Mario Alejandro Dominguez
 * Carlo Joaquín Buendía Díaz
 * Israel Jimenez Vergara
+* Santiago Zambrana
