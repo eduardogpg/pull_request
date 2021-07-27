@@ -3,3 +3,7 @@
 * Alex Gregori Julia
 * Mario Alejandro Dominguez
 * Jhonnatan Flores
+* Carlo Joaquín Buendía Díaz
+* Aldo Said Salas Rodríguez
+* Israel Jimenez Vergara
+* Santiago Zambrana
