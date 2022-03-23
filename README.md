@@ -1,4 +1,4 @@
-# Listado de colaboradores
+# Listado de colaboradoresj
 * Eduardo Ismael García Pérez
 * Alex Gregori Julia
 * Mario Alejandro Dominguez
@@ -10,3 +10,4 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+* ʕ•́ᴥ•̀ʔっ
