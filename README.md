@@ -10,3 +10,4 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+* Juan Sebastian Bernal Herrera
