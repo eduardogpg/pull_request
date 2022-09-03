@@ -10,3 +10,5 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+* Osvaldo Daniel Nava Tepozán
+
