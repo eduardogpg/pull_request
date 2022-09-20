@@ -1,4 +1,6 @@
+
 # Listado de colaboradores
++ Rodriguez Tapia Marco Alonso*
 * Eduardo Ismael García Pérez
 * Alex Gregori Julia
 * Mario Alejandro Dominguez
