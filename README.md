@@ -10,4 +10,4 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
-* Gilberto Flores
+* Gilberto Flores García
