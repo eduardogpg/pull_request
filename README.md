@@ -11,4 +11,4 @@
 - Aldo Said Salas Rodríguez
 - Israel Jimenez Vergara
 - Santiago Zambrana
-- Patricio Guerrero
+- Patricio Guerrero Becerra
