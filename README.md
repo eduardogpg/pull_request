@@ -10,3 +10,5 @@
 * Aldo Said Salas Rodr√≠guez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+* Octavio A√lberto Palafox Valde
+
