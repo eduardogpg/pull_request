@@ -14,6 +14,7 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+* Bladimir Medrano Vargas
 * Jairo Meléndez Alvarado
 * Anderson Zolis C
 * Diego Francisco Xavier Gatica Retamales
