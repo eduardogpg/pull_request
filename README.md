@@ -11,5 +11,14 @@
 * Santiago Zambrana
 * Mauro Riverauez
 * Israel Jimenez Vergar
-* Israel Jimenez Vergar
-* Israel Jimenez Vergar
+* Aldo Said Salas Rodríguez
+* Israel Jimenez Vergara
+* Santiago Zambrana
+* Anderson Zolis C
+* Diego Francisco Xavier Gatica Retamales
+* Pablo Mora
+* rikker007 
+* David López Moreno
+* VicThorBC
+* Adolfo Franco
+* Martin Delgado
