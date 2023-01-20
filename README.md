@@ -14,6 +14,7 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+* Francisco Alejandro Benitez (Arg)
 * Marcos Paulo Rodriguez Miyashiro
 * Alien RL
 * Bladimir Medrano Vargas
@@ -27,3 +28,4 @@
 * Adolfo Franco
 * Martin Delgado
 * Israel
+
