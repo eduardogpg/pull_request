@@ -11,4 +11,8 @@
 * Israel Jimenez Vergara
 * Santiago Zambrana
 * Pablo Mora
-
+* rikker007 
+* David López Moreno
+* VicThorBC
+* Adolfo Franco
+* Martin Delgado
