@@ -10,6 +10,7 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+* Pablo Mora
 * rikker007 
 * David López Moreno
 * VicThorBC
