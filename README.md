@@ -7,7 +7,20 @@
 * Mario Abreu
 * Jhonnatan Flores
 * Carlo Joaquín Buendía Díaz
+* Aldo Said Salas Rodríg
+* Santiago Zambrana
+* Mauro Riverauez
+* Israel Jimenez Vergar
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
 * Bladimir Medrano Vargas
+* Jairo Meléndez Alvarado
+* Anderson Zolis C
+* Diego Francisco Xavier Gatica Retamales
+* Pablo Mora
+* rikker007 
+* David López Moreno
+* VicThorBC
+* Adolfo Franco
+* Martin Delgado
