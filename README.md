@@ -10,6 +10,7 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+* David López Moreno
 * VicThorBC
 * Adolfo Franco
 * Martin Delgado
