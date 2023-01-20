@@ -14,6 +14,8 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+* Marcos Paulo Rodriguez Miyashiro
+* Alien RL
 * Bladimir Medrano Vargas
 * Jairo Meléndez Alvarado
 * Anderson Zolis C
