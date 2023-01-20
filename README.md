@@ -7,6 +7,10 @@
 * Mario Abreu
 * Jhonnatan Flores
 * Carlo Joaquín Buendía Díaz
+* Aldo Said Salas Rodríg
+* Santiago Zambrana
+* Mauro Riverauez
+* Israel Jimenez Vergar
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
