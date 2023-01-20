@@ -10,6 +10,7 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+* Anderson Zolis C
 * Diego Francisco Xavier Gatica Retamales
 * Pablo Mora
 * rikker007 
