@@ -30,4 +30,3 @@
 * Adolfo Franco
 * Martin Delgado
 * Israel
-* Abdiel Moyano
