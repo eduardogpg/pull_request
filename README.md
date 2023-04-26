@@ -1,4 +1,8 @@
 # Listado de colaboradores
+* Dylan Alejandro Alvarez Morales (Colombia)
+* Edith Grisales Echeverri (Colombia)
+* Fabio de Jesus Alvarez Grisales (Colombia) 
+* Maria Nubia Morale Yaima (Colombia)
 * Eduardo Ismael García Pérez
 * Alex Gregori Julia
 * Mario Alejandro Dominguez
