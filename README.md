@@ -30,3 +30,4 @@
 * Adolfo Franco
 * Martin Delgado
 * Israel
+* Sebastián Andrés Sanhueza Tapia 
