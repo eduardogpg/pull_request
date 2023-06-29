@@ -31,3 +31,6 @@
 * Martin Delgado
 * Israel
 * Ulises Hernández 
+* Alfredo Sánchez (España)
+* Sebastián Andrés Sanhueza Tapia 
+* Pepe LM
