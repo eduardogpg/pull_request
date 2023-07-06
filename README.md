@@ -35,3 +35,4 @@
 * Sebastián Andrés Sanhueza Tapia 
 * Pepe LM
 * Vicente Pareja (Chile)
+* James Sarmiento
