@@ -34,3 +34,4 @@
 * Alfredo Sánchez (España)
 * Sebastián Andrés Sanhueza Tapia 
 * Pepe LM
+* James Sarmiento
