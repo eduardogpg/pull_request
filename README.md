@@ -1,6 +1,7 @@
 # Listado de colaboradores
 * Eduardo Ismael García Pérez
 * Alex Gregori Julia
+* Byron Caal (Guatemala 100%Cobán)
 * Mario Alejandro Dominguez
 * Pedro Andrés Rubio Torres
 * Luis Bautista
