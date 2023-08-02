@@ -37,3 +37,4 @@
 * Pepe LM
 * Vicente Pareja (Chile)
 * James Sarmiento
+* Dilan Carrion
