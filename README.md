@@ -1,6 +1,7 @@
 # Listado de colaboradores
 * Eduardo Ismael García Pérez
 * Alex Gregori Julia
+* Byron Caal Figueroa (Guatemala 100%Cobán)
 * Mario Alejandro Dominguez
 * Pedro Andrés Rubio Torres
 * Luis Bautista
@@ -37,15 +38,6 @@
 * Pepe LM
 * Vicente Pareja (Chile)
 * James Sarmiento
+* James Sarmiento
 * Andrés Felipe Pizo Luligo (Colombia)
 * Luis Arturo Pérez Rodríguez
-
-
-
-
-
-
-
-
-
-
