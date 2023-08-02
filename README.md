@@ -38,3 +38,14 @@
 * Vicente Pareja (Chile)
 * James Sarmiento
 * Andrés Felipe Pizo Luligo (Colombia)
+* Luis Arturo Pérez Rodríguez
+
+
+
+
+
+
+
+
+
+
