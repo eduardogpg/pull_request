@@ -38,3 +38,6 @@
 * Pepe LM
 * Vicente Pareja (Chile)
 * James Sarmiento
+* James Sarmiento
+* Andrés Felipe Pizo Luligo (Colombia)
+* Luis Arturo Pérez Rodríguez
