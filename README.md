@@ -41,3 +41,5 @@
 * James Sarmiento
 * Andrés Felipe Pizo Luligo (Colombia)
 * Luis Arturo Pérez Rodríguez
+* Andrés Felipe Reyes Rangel (Colombia - 25/09/2023)
+* 
