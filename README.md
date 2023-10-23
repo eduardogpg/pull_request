@@ -41,4 +41,4 @@
 * James Sarmiento
 * Andrés Felipe Pizo Luligo (Colombia)
 * Luis Arturo Pérez Rodríguez
-* Jose Garcia  
+* Jose Garcia
