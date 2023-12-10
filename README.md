@@ -41,3 +41,4 @@
 * James Sarmiento
 * Andrés Felipe Pizo Luligo (Colombia)
 * Luis Arturo Pérez Rodríguez
+* Miguel Ángel Fernández Fermín (México)
