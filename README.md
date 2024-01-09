@@ -42,6 +42,7 @@
 * James Sarmiento
 * Andrés Felipe Pizo Luligo (Colombia)
 * Luis Arturo Pérez Rodríguez
+* Miguel Ángel Fernández Fermín (México)
 * David Vazquez Osorio
 * Eduardo Avila Torruco (México)
 * Juan Leon (Colombia)
