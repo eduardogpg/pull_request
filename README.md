@@ -1,4 +1,5 @@
 # Listado de colaboradores
+
 * Eduardo Ismael García Pérez
 * Alex Gregori Julia
 * Byron Caal Figueroa (Guatemala 100%Cobán)
@@ -41,29 +42,8 @@
 * James Sarmiento
 * Andrés Felipe Pizo Luligo (Colombia)
 * Luis Arturo Pérez Rodríguez
+* David Vazquez Osorio
 * Eduardo Avila Torruco (México)
 * Juan Leon (Colombia)
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
