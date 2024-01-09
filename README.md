@@ -42,3 +42,4 @@
 * Andrés Felipe Pizo Luligo (Colombia)
 * Luis Arturo Pérez Rodríguez
 * Juan Leon (Colombia)
+* Jhon Aracayo
