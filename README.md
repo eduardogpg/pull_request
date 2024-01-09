@@ -42,4 +42,27 @@
 * Andrés Felipe Pizo Luligo (Colombia)
 * Luis Arturo Pérez Rodríguez
 * Juan Leon (Colombia)
+* Kendall Stiven Salazar Soto
 * Jhon Aracayo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
