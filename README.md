@@ -1,5 +1,5 @@
 # Listado de colaboradores
-
+Perez Lopez
 * Eduardo Ismael García Pérez
 * Alex Gregori Julia
 * Byron Caal Figueroa (Guatemala 100%Cobán)
@@ -15,8 +15,6 @@
 * Israel Jimenez Vergar
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
-* Santiago Zambrana
-* Jesus Rosales
 * Joseph Schynder
 * Francisco Alejandro Benitez (Arg)
 * Marcos Paulo Rodriguez Miyashiro
