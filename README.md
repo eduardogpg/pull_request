@@ -26,16 +26,16 @@
 * Anderson Zolis C
 * Diego Francisco Xavier Gatica Retamales
 * Pablo Mora
-* rikker007 
+* rikker007
 * David López Moreno
 * VicThorBC
 * Adolfo Franco
 * Martin Delgado
 * Israel
 * Andrés Sánchez
-* Ulises Hernández 
+* Ulises Hernández
 * Alfredo Sánchez (España)
-* Sebastián Andrés Sanhueza Tapia 
+* Sebastián Andrés Sanhueza Tapia
 * Pepe LM
 * Vicente Pareja (Chile)
 * James Sarmiento
@@ -52,3 +52,4 @@
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
 * Marco Silvera
+* Luis Carlos Martinez
