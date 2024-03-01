@@ -1,4 +1,5 @@
-# Listado de colaboradores
+
+ Listado de colaboradores
 
 * Eduardo Ismael García Pérez
 * Alex Gregori Julia
@@ -52,3 +53,6 @@
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
 * Marco Silvera
+* Fausto Caleth Pineda González (México) <3
+
+* Oscar Castellanos
