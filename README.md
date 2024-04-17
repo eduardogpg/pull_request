@@ -52,3 +52,5 @@
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
 * Marco Silvera
+* Francesco Dag (Argentina)
+
