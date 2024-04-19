@@ -52,3 +52,5 @@
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
 * Marco Silvera
+* Roy Chuchullo
+* Shaider Pucho
