@@ -52,4 +52,4 @@
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
 * Marco Silvera
-* José Rafael Jiménez (Venezuela)
+* José Rafael Jiménez Serna(Venezuela)
