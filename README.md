@@ -13,6 +13,7 @@
 * Santiago Zambrana
 * Mauro Riverauez
 * Israel Jimenez Vergar
+* Alvaro Cuadrao(Peru)
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
