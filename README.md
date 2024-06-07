@@ -52,3 +52,4 @@
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
 * Marco Silvera
+* Leopoldo Alvarado Gómez
