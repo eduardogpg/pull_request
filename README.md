@@ -52,4 +52,4 @@
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
 * Marco Silvera
-* Luis Alejandro Sanmiguel Galeano
+* Luis Alejandro Sanmiguel Galeano (Colombia)
