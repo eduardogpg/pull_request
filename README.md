@@ -51,4 +51,4 @@
 * Juan Leon (Colombia)
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
-* Marco Silvera
+* Kendra Lambillon
