@@ -52,5 +52,7 @@
 * Kendall Stiven Salazar Soto
 * Jhon Aracayo
 * Marco Silvera
+* Alonso López
 * Héctor Martínez (Venezuela)
 * Luis Iscander
+
