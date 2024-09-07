@@ -53,8 +53,8 @@
 * Jhon Aracayo
 * Kendra Lambillon
 * Marco Silvera
+* Emerson Rueda Restrepo
 * Luis Alejandro Sanmiguel Galeano (Colombia)
 * Alonso López
 * Héctor Martínez (Venezuela)
 * Luis Iscander
-
