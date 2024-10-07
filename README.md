@@ -1,4 +1,5 @@
 # Listado de colaboradores
+
 * Eduardo Ismael García Pérez
 * Alex Gregori Julia
 * Byron Caal Figueroa (Guatemala 100%Cobán)
@@ -25,16 +26,16 @@
 * Anderson Zolis C
 * Diego Francisco Xavier Gatica Retamales
 * Pablo Mora
-* rikker007 
+* rikker007
 * David López Moreno
 * VicThorBC
 * Adolfo Franco
 * Martin Delgado
 * Israel
 * Andrés Sánchez
-* Ulises Hernández 
+* Ulises Hernández
 * Alfredo Sánchez (España)
-* Sebastián Andrés Sanhueza Tapia 
+* Sebastián Andrés Sanhueza Tapia
 * Pepe LM
 * Vicente Pareja (Chile)
 * James Sarmiento
@@ -42,3 +43,4 @@
 * Andrés Felipe Pizo Luligo (Colombia)
 * Luis Arturo Pérez Rodríguez
 * Jimmis Jhoan Simanca Rojas
+* Jimmis J Simanca
