@@ -44,3 +44,19 @@
 * Luis Arturo Pérez Rodríguez
 * Jimmis Jhoan Simanca Rojas
 * Jimmis J Simanca
+* Camilo Andres Rios Baena
+* Pedro perez
+* Tony Chong NG
+* Miguel Ángel Fernández Fermín (México)
+* David Vazquez Osorio
+* Eduardo Avila Torruco (México)
+* Juan Leon (Colombia)
+* Kendall Stiven Salazar Soto
+* Jhon Aracayo
+* Kendra Lambillon
+* Marco Silvera
+* Emerson Rueda Restrepo
+* Luis Alejandro Sanmiguel Galeano (Colombia)
+* Alonso López
+* Héctor Martínez (Venezuela)
+* Luis Iscander
