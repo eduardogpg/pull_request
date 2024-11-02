@@ -26,7 +26,7 @@
 * Anderson Zolis C
 * Diego Francisco Xavier Gatica Retamales
 * Pablo Mora
-* rikker007
+* Rikker007
 * David López Moreno
 * VicThorBC
 * Adolfo Franco
@@ -60,3 +60,4 @@
 * Alonso López
 * Héctor Martínez (Venezuela)
 * Luis Iscander
+* Jahir wh
