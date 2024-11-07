@@ -60,3 +60,4 @@
 * Alonso López
 * Héctor Martínez (Venezuela)
 * Luis Iscander
+* Alfonso Velázquez
