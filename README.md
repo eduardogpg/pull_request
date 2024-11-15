@@ -59,4 +59,5 @@
 * Luis Alejandro Sanmiguel Galeano (Colombia)
 * Alonso López
 * Héctor Martínez (Venezuela)
+* Giovani Padron (Venezuela)
 * Luis Iscander
