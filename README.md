@@ -61,21 +61,18 @@
 * Alonso López
 * Héctor Martínez (Venezuela)
 * Giovani Padron (Venezuela)
-
-
-
-
-
-
 * Luis Iscander
+* Alfonso Velázquez
+
+
+
+
 
 
 
 
 
 Angel 
-
-
 
 
 
