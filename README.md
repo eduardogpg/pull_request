@@ -1,6 +1,7 @@
 # Listado de colaboradores
 
 * Eduardo Ismael García Pérez
+* Claiderman Nuñez Montero
 * Alex Gregori Julia
 * Byron Caal Figueroa (Guatemala 100%Cobán)
 * Mario Alejandro Dominguez
@@ -59,5 +60,29 @@
 * Luis Alejandro Sanmiguel Galeano (Colombia)
 * Alonso López
 * Héctor Martínez (Venezuela)
+* Giovani Padron (Venezuela)
 * Luis Iscander
 * Jahir wh
+* Alfonso Velázquez
+
+
+
+
+
+
+
+
+
+Angel 
+
+
+
+
+
+
+
+
+
+
+
+
