@@ -64,25 +64,5 @@
 * Luis Iscander
 * Jahir wh
 * Alfonso Velázquez
-
-
-
-
-
-
-
-
-
-Angel 
-
-
-
-
-
-
-
-
-
-
-
+* Jenrry Soto Dextre (Lima -Perú)
 
