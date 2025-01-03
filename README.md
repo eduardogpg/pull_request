@@ -63,26 +63,8 @@
 * Giovani Padron (Venezuela)
 * Luis Iscander
 * Jahir wh
+* Meto Garcia
 * Alfonso Velázquez
-
-
-
-
-
-
-
-
-
-Angel 
-
-
-
-
-
-
-
-
-
 
 
 
