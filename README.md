@@ -1,6 +1,7 @@
 # Listado de colaboradores
 
 * Eduardo Ismael García Pérez
+* Nicolas Daza Hernandez
 * Claiderman Nuñez Montero
 * Alex Gregori Julia
 * Byron Caal Figueroa (Guatemala 100%Cobán)
