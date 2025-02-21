@@ -64,7 +64,7 @@
 * Luis Iscander
 * Jahir wh
 * Alfonso Velázquez
-* Carlos Ardila Romero
+* Carlos Ardila Romero (Medellin - Colombia)
 
 
 
