@@ -65,25 +65,3 @@
 * Jahir wh
 * Alfonso Velázquez
 * Alex Claros
-
-
-
-
-
-
-
-
-
-Angel 
-
-
-
-
-
-
-
-
-
-
-
-
