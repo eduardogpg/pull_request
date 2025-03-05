@@ -64,25 +64,4 @@
 * Luis Iscander
 * Jahir wh
 * Alfonso Velázquez
-
-
-
-
-
-
-
-
-
-Angel 
-
-
-
-
-
-
-
-
-
-
-
-
+* Alex Claros
