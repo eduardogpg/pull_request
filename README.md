@@ -64,25 +64,6 @@
 * Luis Iscander
 * Jahir wh
 * Alfonso Velázquez
+* DanielBulevare
 
-
-
-
-
-
-
-
-
-Angel 
-
-
-
-
-
-
-
-
-
-
-
-
+Angel
