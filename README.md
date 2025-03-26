@@ -1,5 +1,5 @@
 # Listado de colaboradores
-
+Perez Lopez
 * Eduardo Ismael García Pérez
 * Claiderman Nuñez Montero
 * Alex Gregori Julia
@@ -16,8 +16,6 @@
 * Israel Jimenez Vergar
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
-* Santiago Zambrana
-* Jesus Rosales
 * Joseph Schynder
 * Francisco Alejandro Benitez (Arg)
 * Marcos Paulo Rodriguez Miyashiro
