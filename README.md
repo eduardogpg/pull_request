@@ -65,3 +65,8 @@
 * Jahir wh
 * Alfonso Velázquez
 * Alex Claros
+* DanielBulevare
+* Alejandro Gonzalez (Mexico)
+* Angelina Bruzoni (Argentina)
+Angel
+* Freddy Hernandez Barajas
