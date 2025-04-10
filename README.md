@@ -65,24 +65,8 @@
 * Jahir wh
 * Alfonso Velázquez
 * Carlos Ardila Romero (Medellin - Colombia)
-
-
-
-
-
-
-
-
-Angel 
-
-
-
-
-
-
-
-
-
-
-
-
+* Alex Claros
+* DanielBulevare
+* Alejandro Gonzalez (Mexico)
+* Angelina Bruzoni (Argentina)
+* Freddy Hernandez Barajas
