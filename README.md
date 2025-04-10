@@ -68,4 +68,4 @@
 * Alejandro Gonzalez (Mexico)
 * Angelina Bruzoni (Argentina)
 Angel
-
+* Freddy Hernandez Barajas
