@@ -64,9 +64,9 @@
 * Luis Iscander
 * Jahir wh
 * Alfonso Velázquez
+* Carlos Ardila Romero (Medellin - Colombia)
 * Alex Claros
 * DanielBulevare
 * Alejandro Gonzalez (Mexico)
 * Angelina Bruzoni (Argentina)
-Angel
 * Freddy Hernandez Barajas
