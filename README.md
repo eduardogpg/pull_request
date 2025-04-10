@@ -65,6 +65,7 @@
 * Luis Iscander
 * Jahir wh
 * Alfonso Velázquez
+* Monica Leal
 * Carlos Ardila Romero (Medellin - Colombia)
 * Alex Claros
 * DanielBulevare
