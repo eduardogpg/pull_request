@@ -64,6 +64,7 @@
 * Giovani Padron (Venezuela)
 * Luis Iscander
 * Jahir wh
+* Meto Garcia
 * Alfonso Velázquez
 * Monica Leal
 * Carlos Ardila Romero (Medellin - Colombia)
