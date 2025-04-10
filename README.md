@@ -1,6 +1,7 @@
 # Listado de colaboradores
 
 * Eduardo Ismael García Pérez
+* Nicolas Daza Hernandez
 * Claiderman Nuñez Montero
 * Alex Gregori Julia
 * Byron Caal Figueroa (Guatemala 100%Cobán)
@@ -65,6 +66,10 @@
 * Jahir wh
 * Meto Garcia
 * Alfonso Velázquez
-
-
-
+* Monica Leal
+* Carlos Ardila Romero (Medellin - Colombia)
+* Alex Claros
+* DanielBulevare
+* Alejandro Gonzalez (Mexico)
+* Angelina Bruzoni (Argentina)
+* Freddy Hernandez Barajas
