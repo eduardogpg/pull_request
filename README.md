@@ -1,5 +1,6 @@
 # Listado de colaboradores
 
+* Juan Carlos Monom
 * Eduardo Ismael García Pérez
 * Nicolas Daza Hernandez
 * Claiderman Nuñez Montero
