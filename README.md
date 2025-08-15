@@ -1,5 +1,6 @@
 # Listado de colaboradores
 
+* Juan Carlos Monom
 * Eduardo Ismael García Pérez
 * Nicolas Daza Hernandez
 * Claiderman Nuñez Montero
@@ -76,4 +77,4 @@
 * Freddy Hernandez Barajas
 * Andres Bravo Aguilar
 * Andrés Saldarriaga Jordan (jorsaland)
-
+* Branko Almeira (Argentina)
