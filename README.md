@@ -14,6 +14,7 @@
 * Carlo Joaquín Buendía Díaz
 * Aldo Said Salas Rodríg
 * Santiago Zambrana
+* Ruli ReinaldoBC
 * Mauro Riverauez
 * Israel Jimenez Vergar
 * Aldo Said Salas Rodríguez
