@@ -81,4 +81,5 @@
 * Andrés Pérez (México)
 * Arcadio Cervantes (mexico)
 * sergio
-* Juan Martínez Alonso (Barcelona) 
+* Juan Martínez Alonso (Barcelona)  
+* Cándido (Cande) Ortega
