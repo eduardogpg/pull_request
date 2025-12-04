@@ -83,3 +83,4 @@
 * sergio
 * Juan Martínez Alonso (Barcelona)  
 * Cándido (Cande) Ortega
+* Alejandro de Jesús Hernández Temoltzin
