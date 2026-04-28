@@ -85,4 +85,6 @@
 - Cándido (Cande) Ortega
 - Matias Castillo (Argentina)
 - Maximiliano Jose Romero (Argentina)
-Cambio realizado por Alejandro Narvaez
+Cambio realizado por Alejandro Narvaez *
+- Ignacio Rubio
+
