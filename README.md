@@ -85,5 +85,5 @@
 * Cándido (Cande) Ortega
 * Matias Castillo (Argentina)
 * Maximiliano Jose Romero (Argentina)
-* Antonio Hernández López (Granada, España)
+* Antonio Hernández 
 
