@@ -171,5 +171,6 @@
 - Cándido (Cande) Ortega
 - Matias Castillo (Argentina)
 - Maximiliano Jose Romero (Argentina)
+- Álvaro Martín Pintor
 - Cambio realizado por Alejandro Narvaez *
 - Ignacio Rubio
