@@ -173,3 +173,4 @@
 - Maximiliano Jose Romero (Argentina)
 - Cambio realizado por Alejandro Narvaez *
 - Ignacio Rubio
+- Edgardo Rojas 
