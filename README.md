@@ -1,4 +1,5 @@
 # Listado de colaboradores
+  Jose Peres
 * Juan Carlos Monom
 * Eduardo Ismael García Pérez
 * Nicolas Daza Hernandez
