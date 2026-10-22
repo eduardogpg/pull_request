@@ -173,3 +173,5 @@
 - Maximiliano Jose Romero (Argentina)
 - Cambio realizado por Alejandro Narvaez *
 - Ignacio Rubio
+Mario Bermúdez Jaimez - MBJ
+Alejandro Narvaez Ferre - ANF
