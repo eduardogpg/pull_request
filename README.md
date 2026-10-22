@@ -173,3 +173,5 @@
 - Maximiliano Jose Romero (Argentina)
 - Cambio realizado por Alejandro Narvaez *
 - Ignacio Rubio
+-Antonio Hernández López (AHL)
+-Jose Alejandro Barranco Avilés (JABA)
